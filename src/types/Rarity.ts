@@ -1,0 +1,8 @@
+export enum Rarity {
+  OMEZHKA = 'OMEZHKA',
+  BASIC = 'BASIC',
+  RARE = 'RARE',
+  ELEPHANT = 'ELEPHANT',
+  ELEPHANT_SHARK = 'ELEPHANT_SHARK',
+  ALPHA = 'ALPHA',
+}

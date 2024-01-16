@@ -1,0 +1,1 @@
+export type { PlayerData} from './model/types/Player';

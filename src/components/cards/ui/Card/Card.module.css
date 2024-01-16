@@ -1,0 +1,32 @@
+.card {
+  width: 100%;
+  border-radius: 30px;
+  overflow: hidden;
+  border: 5px color-mix(in srgb, #37aee2 80%, white 20%) solid;
+}
+
+.img {
+  width: 100%;
+}
+
+.info_container {
+  padding: 10px;
+}
+
+.name {
+  color: #121212;
+  font-size: 10px;
+  font-weight: bolder;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.special {
+  font-weight: bold;
+}
+
+.info {
+  display: flex;
+  gap: 5px;
+  font-size: 10px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}

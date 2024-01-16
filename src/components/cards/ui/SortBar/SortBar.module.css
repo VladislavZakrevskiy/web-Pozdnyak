@@ -1,0 +1,21 @@
+.btn {
+    min-width: 30%;
+    background: #fff;
+    padding: 2px;
+    border: 3px color-mix(in srgb, #37aee2 80%, white 20%) solid;
+    border-radius: 10px;
+    font-size: 12px;
+}
+
+.active {
+    background-color: rgba(54, 175, 226, 0.3);
+}
+
+.sortbar {
+    display: flex;
+    gap: 10px;
+    width: fit-content;
+    overflow: scroll;
+    padding: 10px;
+    width: 100vw;
+}
