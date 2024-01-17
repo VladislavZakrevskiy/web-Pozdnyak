@@ -1,3 +1,3 @@
 export const config = {
-    API: "http://localhost:3000"
+    API: "https://tg-pozdnyak.onrender.com/"
 }
