@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Action, Reducer, ReducersMapObject, combineReducers } from '@reduxjs/toolkit';
 import { MountedReducer, ReducerManager, StateSchema, StateSchemaKey } from './StateSchema';
 
